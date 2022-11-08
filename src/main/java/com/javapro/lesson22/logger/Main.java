@@ -1,7 +1,8 @@
 package com.javapro.lesson22.logger;
 
 
-import com.java.pro.lesoon22.librarymath.MathTask;
+
+
 import com.javapro.lesson22.logger.api.FileLoggerAvaible;
 import com.javapro.lesson22.logger.model.FileLogger;
 import com.javapro.lesson22.logger.model.FileLoggerConfigurationLoader;
@@ -19,7 +20,7 @@ public class Main {
         }
         FileLoggerConfigurationLoader loader = new FileLoggerConfigurationLoader();
         System.out.println(loader.load().toString());
-        MathTask mathTask = new MathTask();
-        mathTask.fibonacci(12);
+
     }
+
 }
