@@ -1,7 +1,7 @@
-package com.javapro.lesson22.model;
+package com.javapro.lesson22.logger.model;
 
 
-import com.javapro.lesson22.api.LoggingLevel;
+import com.javapro.lesson22.logger.api.LoggingLevel;
 
 public class FileLoggerConfiguration {
 
