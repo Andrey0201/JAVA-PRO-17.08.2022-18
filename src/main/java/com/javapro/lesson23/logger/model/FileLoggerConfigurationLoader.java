@@ -1,4 +1,4 @@
-package com.javapro.lesson22.logger.model;
+package com.javapro.lesson23.logger.model;
 
 import java.io.FileInputStream;
 import java.io.IOException;

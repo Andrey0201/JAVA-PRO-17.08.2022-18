@@ -1,8 +1,8 @@
-package com.javapro.lesson22.logger.model;
+package com.javapro.lesson23.logger.model;
 
 
-import com.javapro.lesson22.logger.api.FileLoggerAvaible;
-import com.javapro.lesson22.logger.api.LoggingLevel;
+import com.javapro.lesson23.logger.api.FileLoggerAvaible;
+import com.javapro.lesson23.logger.api.LoggingLevel;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.javapro.lesson22.logger.api;
+package com.javapro.lesson23.logger.api;
 
 public enum LoggingLevel {
   INFO,

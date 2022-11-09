@@ -1,12 +1,13 @@
-package com.javapro.lesson22.logger;
+package com.javapro.lesson23.logger;
 
 
 
 
-import com.javapro.lesson22.logger.api.FileLoggerAvaible;
-import com.javapro.lesson22.logger.model.FileLogger;
-import com.javapro.lesson22.logger.model.FileLoggerConfigurationLoader;
-import com.javapro.lesson22.mylibrary.MathTask;
+
+import com.javapro.lesson23.logger.api.FileLoggerAvaible;
+import com.javapro.lesson23.logger.model.FileLogger;
+import com.javapro.lesson23.logger.model.FileLoggerConfigurationLoader;
+import com.javapro.lesson23.mylibrary.MathTask;
 
 
 public class Main {

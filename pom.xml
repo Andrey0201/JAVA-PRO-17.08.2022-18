@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.javapro.lesson22</groupId>
+  <groupId>com.javapro.lesson23</groupId>
   <artifactId>JAVA-PRO-17.08.2022-18</artifactId>
   <version>1.0-SNAPSHOT</version>
 
@@ -15,7 +15,7 @@
   </properties>
 <dependencies>
   <dependency>
-    <groupId>com.javapro.lesson22</groupId>
+    <groupId>com.javapro.lesson23</groupId>
     <artifactId>JARMATH</artifactId>
     <version>1.0-SNAPSHOT</version>
   </dependency>
