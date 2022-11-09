@@ -13,6 +13,12 @@
     <maven.compiler.target>18</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-
+<dependencies>
+  <dependency>
+    <groupId>com.javapro.lesson22</groupId>
+    <artifactId>JARMATH</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </dependency>
+</dependencies>
 
 </project>
