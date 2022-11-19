@@ -9,7 +9,7 @@ public class FileLoggerConfigurationLoader {
 
     public FileLoggerConfiguration load() {
         FileLoggerConfiguration configuration = new FileLoggerConfiguration();
-        try (InputStream input = new FileInputStream("my.config.properties")) {
+        try (InputStream input = new FileInputStream("src/main/resources/my.config.properties")) {
             Properties prop = new Properties();
             prop.load(input);
             configuration.setNameFile(prop.getProperty("file"));
